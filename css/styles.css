@@ -542,6 +542,7 @@ body {
 .portfolio-link {
   text-decoration: none;
   display: block;
+  transition: box-shadow var(--timing-function);
 }
 
 .text-top-wrap {
